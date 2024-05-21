@@ -1,4 +1,8 @@
 # CH32V003-Dev-Board
+<p float="left">
+  <img src="https://github.com/Strat00s/CH32V003-Dev-Board/blob/5b81b4377a25a637bfdaf578a3d197af4e0a5249/img/front.png?raw=true" width="150" height="280">
+  <img src="https://github.com/Strat00s/CH32V003-Dev-Board/blob/5b81b4377a25a637bfdaf578a3d197af4e0a5249/img/back.png?raw=true" width="150" height="280">
+</p>
 
 A minimal CH32V003F4U6 based dev board for playing with the CH32V003 MCU.
 
