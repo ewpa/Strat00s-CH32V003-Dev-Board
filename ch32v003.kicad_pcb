@@ -6323,7 +6323,7 @@
 		(uuid "10fdf4fa-aa52-40a9-9e3c-fa773b932f5f")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -6399,7 +6399,7 @@
 		(uuid "1390c712-32f8-46c2-86bc-a5c04d5c5a88")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -6478,7 +6478,7 @@
 		(uuid "20dd96b3-96a9-425a-8e41-b6cdb180a6bd")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -6566,7 +6566,7 @@
 		(uuid "3208f260-9a9f-46cd-b299-4163b8b374d2")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -6628,7 +6628,7 @@
 		(uuid "3a23bbcb-44cb-49e8-964b-02753ce4f1e3")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -6715,7 +6715,7 @@
 		(uuid "49a87030-3650-441a-8873-e6273982e037")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -6789,7 +6789,7 @@
 		(uuid "53513d7e-c2cc-4ab7-a2ea-266fc94e472e")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -6875,7 +6875,7 @@
 		(uuid "54769bdc-9c98-4954-b4d9-4a3123a04849")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -6937,7 +6937,7 @@
 		(uuid "5bfa8aa3-b855-4d10-9eae-db377f6393b0")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -7001,7 +7001,7 @@
 		(uuid "6162ec89-fc3a-483a-bfde-6748bea6a212")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -7062,7 +7062,7 @@
 		(uuid "8c986f3d-ecf8-48d5-aaf2-041049fbd747")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -7103,7 +7103,7 @@
 		(uuid "90ac162c-758c-4f79-a520-f7c051865d9e")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -7183,7 +7183,7 @@
 		(uuid "92991eb8-aa1f-4919-a00b-0d4013d21796")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -7267,7 +7267,7 @@
 		(uuid "9873728d-5b29-41a0-aec1-b572a28297b1")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -7674,7 +7674,7 @@
 		(uuid "a2b712f6-bfa3-4eff-85e5-951b095caa7a")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -7734,7 +7734,7 @@
 		(uuid "a4921b41-cce3-4b38-ad7d-ad1297492172")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -7781,7 +7781,7 @@
 		(uuid "a9986160-c165-40b5-a05e-2c40b45cb1ca")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -7846,7 +7846,7 @@
 		(uuid "b4f25629-6f09-41c2-8aeb-7b956669d6c5")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -7912,7 +7912,7 @@
 		(uuid "ce38d65e-afa3-4714-ae64-f836f4625170")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -8002,7 +8002,7 @@
 		(uuid "cebc40a4-e16f-4453-811c-0bc1bc5dba81")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -8080,7 +8080,7 @@
 		(uuid "d1a37a2d-8ff6-4547-81ee-64e9f7f162aa")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -8163,7 +8163,7 @@
 		(uuid "01ced98b-e9ed-43f2-9c20-24d712aee03c")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -8219,7 +8219,7 @@
 		(uuid "06af7546-d76a-4a79-a385-19fa4a75293a")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -8292,7 +8292,7 @@
 		(uuid "06d61afa-7392-4bd6-ad34-24edd7896fc3")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -8368,7 +8368,7 @@
 		(uuid "135aeb0b-8b34-4184-9d62-d3f858c1953e")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -8409,7 +8409,7 @@
 		(uuid "3ec514a3-bc8a-4695-9395-5fcf37191d20")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -8437,7 +8437,7 @@
 		(uuid "9394f01f-02d8-494e-86df-0f174596ecaf")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -8478,7 +8478,7 @@
 		(uuid "9a98eb77-90e6-4abf-8398-1d7e6ae0b5f0")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -8528,7 +8528,7 @@
 		(uuid "d2207628-cce4-4989-b05e-19eb5aa45f24")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -8566,7 +8566,7 @@
 		(uuid "ee50b166-d141-4633-937e-05c7047d99bd")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
@@ -8645,7 +8645,7 @@
 		(uuid "f7c30eeb-159b-4100-8515-b02b2bcc59fc")
 		(effects
 			(font
-				(face "Fira Code")
+				(face "Liberation Mono")
 				(size 1 1)
 				(thickness 0.15)
 			)
